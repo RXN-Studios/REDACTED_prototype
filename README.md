@@ -13,7 +13,7 @@
 * **Logic:** * **AI:** State-based enemy behavior (Patrol, Alert, Attack).
 * **World:** Grid-based map parsing from raw string arrays.
 * **Persistence:** Save/Load functionality via browser `localStorage`.
-* **Development Process:** Developed using AI-Assisted Prototyping. 
+* **Development Process:** Developed using AI-Assisted Rapid Prototyping (Claude 3.5 Sonnet).
 * **Role:** Acted as Lead Architect and Systems Designer; leveraged AI for rapid code execution and optimization.
 
 ## ⌨️ Controls
