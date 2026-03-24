@@ -11,8 +11,10 @@
 * **Engine:** Custom JavaScript Raycaster (no external libraries).
 * **Rendering:** HTML5 Canvas API.
 * **Logic:** * **AI:** State-based enemy behavior (Patrol, Alert, Attack).
-    * **World:** Grid-based map parsing from raw string arrays.
-    * **Persistence:** Save/Load functionality via browser `localStorage`.
+* **World:** Grid-based map parsing from raw string arrays.
+* **Persistence:** Save/Load functionality via browser `localStorage`.
+* **Development Process:** Developed using AI-Assisted Prototyping. 
+* **Role:** Acted as Lead Architect and Systems Designer; leveraged AI for rapid code execution and optimization.
 
 ## ⌨️ Controls
 * **WASD/Arrows:** Movement
